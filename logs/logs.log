@@ -1,0 +1,94 @@
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:30:47-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:30:48-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:35:01-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } }]","time":"2023-03-23T20:35:01-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:38:14-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:38:14-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:39:16-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:39:16-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:39:23-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } }]","time":"2023-03-23T20:39:23-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:39:49-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:39:50-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:40:02-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } }]","time":"2023-03-23T20:40:02-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:40:14-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:40:14-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:40:28-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } }]","time":"2023-03-23T20:40:28-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:44:01-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:44:01-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:44:11-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: ObjectId('641cb11cf45cfaf50bd93b08') } }]","time":"2023-03-23T20:44:11-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:44:14-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: ObjectId('641cb11cf45cfaf50bd93b08') } }]","time":"2023-03-23T20:44:14-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:44:15-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: ObjectId('641cb11cf45cfaf50bd93b08') } }]","time":"2023-03-23T20:44:15-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:46:25-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:46:26-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:46:32-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: ObjectId('641cb11cf45cfaf50bd93b08') } }]","time":"2023-03-23T20:46:32-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:47:27-03:00"}
+{"level":"fatal","msg":"Mongo Database Unavailable","time":"2023-03-23T20:47:29-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:47:38-03:00"}
+{"level":"fatal","msg":"Mongo Database Unavailable","time":"2023-03-23T20:47:40-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:48:16-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:48:17-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:48:25-03:00"}
+{"level":"info","msg":"Delete Service took 24.8µs","time":"2023-03-23T20:48:25-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:54:03-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:54:03-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:54:09-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [$in needs an array]","time":"2023-03-23T20:54:09-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:54:41-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:54:44-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:54:52-03:00"}
+{"level":"info","msg":"Delete Service took 32.8µs","time":"2023-03-23T20:54:52-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:14-03:00"}
+{"level":"info","msg":"Delete Service took 20.8µs","time":"2023-03-23T20:55:14-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:55:36-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:55:36-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:40-03:00"}
+{"level":"info","msg":"Delete Service took 59.4µs","time":"2023-03-23T20:55:40-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:42-03:00"}
+{"level":"info","msg":"Delete Service took 55.9µs","time":"2023-03-23T20:55:42-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:44-03:00"}
+{"level":"info","msg":"Delete Service took 16.7µs","time":"2023-03-23T20:55:44-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:47-03:00"}
+{"level":"info","msg":"Delete Service took 49.3µs","time":"2023-03-23T20:55:47-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:55:54-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:55:55-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:58-03:00"}
+{"level":"info","msg":"Delete Service took 23.6µs","time":"2023-03-23T20:55:58-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:58-03:00"}
+{"level":"info","msg":"Delete Service took 18.6µs","time":"2023-03-23T20:55:58-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:55:59-03:00"}
+{"level":"info","msg":"Delete Service took 14.6µs","time":"2023-03-23T20:55:59-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:56:59-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:57:00-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:57:07-03:00"}
+{"level":"info","msg":"Delete Service took 121.5µs","time":"2023-03-23T20:57:07-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T20:58:18-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T20:58:20-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T20:58:23-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { elemMatch: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } } }]","time":"2023-03-23T20:58:23-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T21:05:02-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T21:05:03-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T21:05:07-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [The array filter for identifier 'elem' was not used in the update { $pull: { services: { $elemMatch: { _id: ObjectId('641cb11cf45cfaf50bd93b08') } } } }]","time":"2023-03-23T21:05:07-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T21:05:41-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T21:05:42-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T21:05:46-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [unknown top level operator: $[elem]. If you have a field name that starts with a '$' symbol, consider using $getField or $setField.]","time":"2023-03-23T21:05:46-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T21:09:29-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T21:09:29-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T21:09:33-03:00"}
+{"level":"error","msg":"Error Deleting Service to MongoDB: sulaTopHair write exception: write errors: [Cannot apply $pull to a non-array value]","time":"2023-03-23T21:09:33-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T21:10:22-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T21:10:25-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T21:10:31-03:00"}
+{"level":"info","msg":"Delete Service took 26.9µs","time":"2023-03-23T21:10:31-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-23T21:11:37-03:00"}
+{"level":"info","msg":"MongoDB connection established","time":"2023-03-23T21:11:37-03:00"}
+{"level":"warning","msg":"Deleting a Service on sulaTopHair","time":"2023-03-23T21:12:02-03:00"}
+{"level":"info","msg":"Delete Service took 83.2µs","time":"2023-03-23T21:12:02-03:00"}
